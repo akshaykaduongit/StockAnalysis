@@ -1,0 +1,5 @@
+This module will automatically download BSE and NSE bhavcopy for current date if it is not loaded already.
+Create code to download csv bhavcopy files from BSE and NSE.
+Create 2 separate tables in landing schema for BSE and NSE bhavcopy to load data from csv file.
+Write code to populate landing tables from csv files.
+Create table in DWH layer to upload NSE and BSE data in it.  This table should have source column to identify data source.
